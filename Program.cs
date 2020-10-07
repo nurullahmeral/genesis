@@ -169,9 +169,9 @@ namespace Entity
         }
         static void InsertAdresses(){
             var adresses = new List<Adress>(){
+                new Adress(){FullName="NurullahTuran",Title="Ev Adresi",Body="Kastamonu",UserId=1},
                 new Adress(){FullName="SadikTuran",Title="Ev Adresi",Body="Kastamonu",UserId=1},
-                new Adress(){FullName="SadikTuran",Title="Ev Adresi",Body="Kastamonu",UserId=1},
-                new Adress(){FullName="SadikTuran",Title="Ev Adresi",Body="Kastamonu",UserId=2},
+                new Adress(){FullName="SadikTuran",Title="İş Adresi",Body="Kastamonu",UserId=2},
                 new Adress(){FullName="SadikTuran",Title="Ev Adresi",Body="Kastamonu",UserId=3},
                 new Adress(){FullName="SadikTuran",Title="İş Adresi",Body="Kastamonu",UserId=4},
                 new Adress(){FullName="SadikTuran",Title="İş Adresi",Body="Kastamonu",UserId=4},
