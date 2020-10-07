@@ -157,7 +157,7 @@ namespace Entity
                 new User(){UserName="SadikTuran",Email="sadik@gmail.com"},
                 new User(){UserName="AhmetTuran",Email="ahmet@gmail.com"},
                 new User(){UserName="MehmetTuran",Email="mehmet@gmail.com"},
-                new User(){UserName="CanTuran",Email="can@gmail.com"},
+                new User(){UserName="MelekTuran",Email="can@gmail.com"},
             };
             using (var db = new ShopContext())
             {
