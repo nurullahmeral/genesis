@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w10\\Desktop\\EntityApp\\EntityApp.csproj": {}
+    "c:\\Users\\w10\\Desktop\\githubprojects\\genesis\\EntityApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w10\\Desktop\\EntityApp\\EntityApp.csproj": {
+    "c:\\Users\\w10\\Desktop\\githubprojects\\genesis\\EntityApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w10\\Desktop\\EntityApp\\EntityApp.csproj",
+        "projectUniqueName": "c:\\Users\\w10\\Desktop\\githubprojects\\genesis\\EntityApp.csproj",
         "projectName": "EntityApp",
-        "projectPath": "C:\\Users\\w10\\Desktop\\EntityApp\\EntityApp.csproj",
+        "projectPath": "c:\\Users\\w10\\Desktop\\githubprojects\\genesis\\EntityApp.csproj",
         "packagesPath": "C:\\Users\\w10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w10\\Desktop\\EntityApp\\obj\\",
+        "outputPath": "c:\\Users\\w10\\Desktop\\githubprojects\\genesis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w10\\AppData\\Roaming\\NuGet\\NuGet.Config",

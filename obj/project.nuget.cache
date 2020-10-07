@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qAHIfcQDu/qads9x91bjaOt72TKxkS6YPLFsU6x6iigGvBW1sxgCwSTh70/BZeA4WceoO5gZ1KraQiS63o8v2Q==",
+  "dgSpecHash": "2oIyvWqZSbBP2kwNESzuJvmI5X0VYs9xyt7oux7i1YhjWzISLNZox56BmDbozUvsMHXDUffYTkeuYNkyTzWWlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w10\\Desktop\\EntityApp\\EntityApp.csproj",
+  "projectFilePath": "c:\\Users\\w10\\Desktop\\githubprojects\\genesis\\EntityApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w10\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\w10\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
