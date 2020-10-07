@@ -149,6 +149,7 @@ namespace Entity
             //     db.Users.Add(user);
             //     db.SaveChanges();
             // }
+            //Bir değişiklik
            
         }
         static void InsertUsers(){
